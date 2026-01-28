@@ -10,4 +10,5 @@ function f3(a, b) {
   }
 }
 
-var totalnumberOf_catIn_tokyo_atLastYear = 0;
+//修正前　var totalnumberOf_catIn_tokyo_atLastYear = 0;
+const catsInTokyo = 0;
