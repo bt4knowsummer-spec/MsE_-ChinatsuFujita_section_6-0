@@ -1,0 +1,12 @@
+{
+  "env": {
+    //コードがどこで動くか
+    "browser": true, //ブラウザ環境
+    "es2021": true //ES2021の構文を許可
+  },
+  "rules": {
+    //ルールの設定
+    "no-alert": "error", //alertの使用を禁止
+    "id-length": ["error", { "max": 12 }] //識別子の長さを最大12文字に制限
+  }
+}

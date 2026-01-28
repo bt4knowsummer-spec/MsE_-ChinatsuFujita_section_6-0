@@ -1,0 +1,24 @@
+{
+  "name": "section6-0",
+  "version": "1.0.0",
+  "description": "1.ESLint を導入",
+  "main": "coding.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bt4knowsummer-spec/MsE_-ChinatsuFujita_section_6-0.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/bt4knowsummer-spec/MsE_-ChinatsuFujita_section_6-0/issues"
+  },
+  "homepage": "https://github.com/bt4knowsummer-spec/MsE_-ChinatsuFujita_section_6-0#readme",
+  "devDependencies": {
+    "eslint": "^9.39.2"
+  }
+}
